@@ -1,0 +1,1 @@
+Dockerfile básico de instalação do Alpine.
