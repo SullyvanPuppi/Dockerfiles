@@ -1,3 +1,4 @@
+# Referência e créditos https://churrops.io/2017/09/08/docker-construindo-suas-imagens-com-dockerfile/
 # Chama a imagem "ubuntu:16.04" como imagem base para o build
 # O FROM é obrigatório no início
 FROM ubuntu:16.04
